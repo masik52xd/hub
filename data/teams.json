@@ -2,50 +2,49 @@
   {
     "id": "super-pro",
     "name": "SUPER PRO MAX MA...",
-    "logo": "images/arsen.png",
-    "description": "Опис команди тут.",
+    "logo": "images/spmmnpc.png",
+    "description": "Сильні і непереможні.",
     "players": [
       {
-        "name": "Гравець 1",
+        "name": "L0f1xxson",
         "photo": "",
         "role": "Капітан"
       },
       {
-        "name": "Гравець 2",
+        "name": "Revan_10",
         "photo": "",
-        "role": "Снайпер"
+        "role": "Гравець"
       },
-      "Гравець 3 (можна й просто текстом)"
     ]
   },
   {
     "id": "pivo20",
     "name": "Pivo20",
     "logo": "images/pivo20.png",
-    "description": "Опис команди тут.",
+    "description": "Переможці першого турніру, легенди.",
     "players": [
-      "Гравець 1",
-      "Гравець 2"
+      "NinetyEight",
+      "SuIIIka"
     ]
   },
   {
     "id": "true",
     "name": "true. ESports",
     "logo": "images/true.png",
-    "description": "Опис команди тут.",
+    "description": "Грають. Більшого не треба",
     "players": [
-      "Гравець 1",
-      "Гравець 2"
+      "Mas1k52",
+      "TheSeuge"
     ]
   },
   {
     "id": "outsiders",
     "name": "Outsiders",
     "logo": "images/outsiders.png",
-    "description": "Опис команди тут.",
+    "description": "Аутсайдери, перші вибули.",
     "players": [
-      "Гравець 1",
-      "Гравець 2"
+      "S0maF1X",
+      "ChortIzTabakerky"
     ]
   }
 ]
