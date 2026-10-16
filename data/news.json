@@ -1,0 +1,4 @@
+[
+  {"id":"welcome","title":"Ласкаво просимо на Havoc.gg","date":"2025-08-19","image":"images/Havoc-logo.png","featured":true,"summary":"Короткий опис, який видно в списку.","content":["Перший абзац статті.","Другий абзац статті."]},
+  {"id":"bsul-start","title":"Стартував BSUL Summer 2025","date":"2025-08-18","image":"","summary":"Починається новий турнір.","content":["Текст статті..."]}
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "bsul-summer-2025",
+    "name": "BSUL Summer 2025",
+    "dates": "серпень 2025",
+    "prize": "—",
+    "status": "Триває",
+    "description": "Опис турніру.",
+    "teams": [
+      "super-pro",
+      "pivo20",
+      "true",
+      "outsiders"
+    ],
+    "logo": "",
+    "banner": ""
+  }
+]

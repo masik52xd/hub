@@ -1,0 +1,51 @@
+[
+  {
+    "id": "super-pro",
+    "name": "SUPER PRO MAX MA...",
+    "logo": "images/arsen.png",
+    "description": "Опис команди тут.",
+    "players": [
+      {
+        "name": "Гравець 1",
+        "photo": "",
+        "role": "Капітан"
+      },
+      {
+        "name": "Гравець 2",
+        "photo": "",
+        "role": "Снайпер"
+      },
+      "Гравець 3 (можна й просто текстом)"
+    ]
+  },
+  {
+    "id": "pivo20",
+    "name": "Pivo20",
+    "logo": "images/pivo20.png",
+    "description": "Опис команди тут.",
+    "players": [
+      "Гравець 1",
+      "Гравець 2"
+    ]
+  },
+  {
+    "id": "true",
+    "name": "true. ESports",
+    "logo": "images/true.png",
+    "description": "Опис команди тут.",
+    "players": [
+      "Гравець 1",
+      "Гравець 2"
+    ]
+  },
+  {
+    "id": "outsiders",
+    "name": "Outsiders",
+    "logo": "images/outsiders.png",
+    "description": "Опис команди тут.",
+    "players": [
+      "Гравець 1",
+      "Гравець 2"
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "name": "Havoc.gg",
+  "logo": "images/Havoc-logo.png",
+  "footer": "Havoc.gg - Усі права захищено.",
+  "accent": "#ff5a36",
+  "nav": [
+    {"label": "Новини", "href": "index.html", "page": "home"},
+    {"label": "Матчі", "href": "matches.html", "page": "matches"},
+    {"label": "Події", "href": "events.html", "page": "events"}
+  ]
+}

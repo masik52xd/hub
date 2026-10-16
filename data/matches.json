@@ -1,0 +1,6 @@
+[
+  {"id":"super-pro-vs-pivo20","team1":"super-pro","team2":"pivo20","date":"2025-08-19","time":"18:40","status":"live","event":"bsul-summer-2025","maps":[],"notes":""},
+  {"id":"true-vs-outsiders","team1":"true","team2":"outsiders","date":"2025-08-19","time":"18:00","status":"upcoming","event":"bsul-summer-2025","maps":[],"notes":""},
+  {"id":"true-vs-super-pro","team1":"true","team2":"super-pro","date":"2025-08-18","time":"19:00","status":"finished","score1":10,"score2":8,"event":"bsul-summer-2025","maps":[{"map":"Map 1","score1":10,"score2":8}],"notes":"Коментар до матчу."},
+  {"id":"outsiders-vs-pivo20","team1":"outsiders","team2":"pivo20","date":"2025-08-17","time":"19:00","status":"finished","score1":10,"score2":9,"event":"bsul-summer-2025","maps":[],"notes":""}
+]
