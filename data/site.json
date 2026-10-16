@@ -1,7 +1,7 @@
 {
-  "name": "Havoc.gg",
+  "name": "BSUL Hub",
   "logo": "images/Havoc-logo.png",
-  "footer": "Havoc.gg - Усі права захищено.",
+  "footer": "BSUL Hub - Усі права захищено.",
   "accent": "#ff5a36",
   "nav": [
     {"label": "Новини", "href": "index.html", "page": "home"},
